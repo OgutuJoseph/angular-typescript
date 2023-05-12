@@ -1,4 +1,6 @@
 Resources: https://www.youtube.com/watch?v=3qBXWUpoPHo
+Current: 00.55.29
+
 ⭐️ Course Contents ⭐️
 Introduction
 ⌨️ (0:00:00) Introduction to Angular
